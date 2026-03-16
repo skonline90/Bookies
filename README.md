@@ -197,6 +197,7 @@
 ## Psychologie
 - [Jordan Peterson](https://www.youtube.com/@JordanBPeterson/videos)
 - [Theramintrees](https://www.youtube.com/@TheraminTrees/videos)
+- [The Psyche](https://www.youtube.com/@ThePsyche-e6z/videos)
 
 
 
