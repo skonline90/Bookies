@@ -100,7 +100,7 @@
 
 
 ## Gaming
-### Age of Empires 2
+#### Age of Empires 2
 - [Spirt Of The Law](https://www.youtube.com/@SpiritOfTheLaw/videos)
 - [NiliAoE2](https://www.youtube.com/@NiliAoE2/videos)
 - [MembTV](https://www.youtube.com/@MembTV/videos)
@@ -108,29 +108,29 @@
 - [T90 Official](https://www.youtube.com/@T90Official/videos)
 - [Hera](https://www.youtube.com/@HeraAgeofEmpires2/videos)
 
-### Starcraft 2
+#### Starcraft 2
 - [uThermal](https://www.youtube.com/@uThermal/videos)
 - [Alex 007](https://www.youtube.com/@Alex007/videos)
 - [Esports World Cup - Starcraft 2](https://www.youtube.com/@EWC_VOD/videos)
 
-### Stronghold
+#### Stronghold
 - [Udwin](https://www.youtube.com/@Udwin/videos)
 - [Jefflenious Stronghold](https://www.youtube.com/@Jefflenious/videos)
 
-### Warcraft 3
+#### Warcraft 3
 - [JayborinoPlays](https://www.youtube.com/@JayborinoPlays/videos)
 
-### Diablo 2
+#### Diablo 2
 - [Zarfen The Loot Goblin](https://www.youtube.com/@zarfen/videos)
 - [Dbrunski](https://www.youtube.com/@Dbrunski125/videos)
 
-### Dota
+#### Dota
 - [Purge Dota](https://www.youtube.com/@PurgeGamers/videos)
 
-### Counter Strike
+#### Counter Strike
 - [WarOwl](https://www.youtube.com/@TheWarOwl/videos)
 
-### Sonstiges
+#### Sonstiges
 - [PushingUpRoses](https://www.youtube.com/@pushinguproses/videos)
 
 
