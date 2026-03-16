@@ -5,12 +5,14 @@
 - [Veritasium](https://www.youtube.com/@veritasium/videos)
 
 
+
 ## Computer
 - [Computerphile](https://www.youtube.com/@Computerphile/videos)
 - [Tech Lead](https://www.youtube.com/@TechLead/videos)
 - [Rob Braxman Tech](https://www.youtube.com/@robbraxmantech/videos)
 - [Kappa Kaiju](https://www.youtube.com/@KappaKaijuOfficial/videos)
 - [Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi/videos)
+
 
 
 ## Gesundheit
@@ -23,10 +25,11 @@
 - [Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
 
 
+
 ## Wirtschaft
 - [Economics Explained](https://www.youtube.com/@EconomicsExplained/videos)
 - [In Hindsight](https://www.youtube.com/@HindsightYT/videos)
-- []()
+
 
 
 ## Finanzen
@@ -35,6 +38,7 @@
 - [Cara Nicole](https://www.youtube.com/channel/UCm5iBOcQ0GET_2FqFI61QDA/videos)
 - [Vincent Chan](https://www.youtube.com/@VincentChan/videos)
 - [Zac Rios](https://www.youtube.com/@Zac-Rios/videos)
+
 
 
 ## Öffentlich-Rechtliche
@@ -46,6 +50,7 @@
 - [WDR](https://www.youtube.com/@wdr/videos)
 - [Tagesschau](https://www.youtube.com/@tagesschau/videos)
 - [NDRDoku](https://www.youtube.com/@NDRDoku/videos)
+
 
 
 ## Dokumentationen
@@ -65,6 +70,7 @@
 - [In Hindsight](https://www.youtube.com/@HindsightYT/videos)
 
 
+
 ## Sport
 - [VoteSport](https://www.youtube.com/@votesport/videos)
 - [Runner's World UK](https://www.youtube.com/@runnersworlduk/videos)
@@ -78,6 +84,7 @@
 - [Shredded Sports Science](https://www.youtube.com/@shreddedsportsscience/videos)
 
 
+
 ## Schach
 - [Chess Network](https://www.youtube.com/@ChessNetwork/videos)
 - [GM Igor Smirnov - Remote Chess Academy](https://www.youtube.com/@GMIgorSmirnov/videos)
@@ -85,31 +92,54 @@
 - [PowerPlayChess GM Daniel King](https://www.youtube.com/@PowerPlayChess/videos)
 
 
+
 ## Kochen
 - [ZDF Besseresser](https://www.youtube.com/@ZDFbesseresser/videos)
 - [Kiana Docherty](https://www.youtube.com/@KianaDocherty/videos)
 
 
+
 ## Gaming
+### Age of Empires 2
 - [Spirt Of The Law](https://www.youtube.com/@SpiritOfTheLaw/videos)
-- [Udwin](https://www.youtube.com/@Udwin/videos)
-- [uThermal](https://www.youtube.com/@uThermal/videos)
-- [Hera](https://www.youtube.com/@HeraAgeofEmpires2/videos)
-- [PushingUpRoses](https://www.youtube.com/@pushinguproses/videos)
-- [JayborinoPlays](https://www.youtube.com/@JayborinoPlays/videos)
-- [T90 Official](https://www.youtube.com/@T90Official/videos)
-- [Purge Dota](https://www.youtube.com/@PurgeGamers/videos)
-- [WarOwl](https://www.youtube.com/@TheWarOwl/videos)
-- [DaveAoe](https://www.youtube.com/@daveaoe/videos)
-- [MembTV](https://www.youtube.com/@MembTV/videos)
 - [NiliAoE2](https://www.youtube.com/@NiliAoE2/videos)
-- [Dbrunski](https://www.youtube.com/@Dbrunski125/videos)
+- [MembTV](https://www.youtube.com/@MembTV/videos)
+- [DaveAoe](https://www.youtube.com/@daveaoe/videos)
+- [T90 Official](https://www.youtube.com/@T90Official/videos)
+- [Hera](https://www.youtube.com/@HeraAgeofEmpires2/videos)
+
+### Starcraft 2
+- [uThermal](https://www.youtube.com/@uThermal/videos)
+- [Alex 007](https://www.youtube.com/@Alex007/videos)
+- [Esports World Cup - Starcraft 2](https://www.youtube.com/@EWC_VOD/videos)
+
+### Stronghold
+- [Udwin](https://www.youtube.com/@Udwin/videos)
+- [Jefflenious Stronghold](https://www.youtube.com/@Jefflenious/videos)
+
+### Warcraft 3
+- [JayborinoPlays](https://www.youtube.com/@JayborinoPlays/videos)
+
+### Diablo 2
 - [Zarfen The Loot Goblin](https://www.youtube.com/@zarfen/videos)
-- []()
+- [Dbrunski](https://www.youtube.com/@Dbrunski125/videos)
+
+### Dota
+- [Purge Dota](https://www.youtube.com/@PurgeGamers/videos)
+
+### Counter Strike
+- [WarOwl](https://www.youtube.com/@TheWarOwl/videos)
+
+### Sonstiges
+- [PushingUpRoses](https://www.youtube.com/@pushinguproses/videos)
+
 
 
 ## Criminal Psychology
 - [JCS Criminal Psychology](https://www.youtube.com/@JCS/videos)
+- [Explore With Us](https://www.youtube.com/@ExploreWithUs/videos)
+- [PleaseGameEndUs - Valkyrae Reacts](https://www.youtube.com/@PleaseGameEndUs/videos)
+
 
 
 ## Comedy
@@ -123,26 +153,35 @@
 - [Over Simplified](https://www.youtube.com/@OverSimplified/videos)
 
 
+
 ## Naturwissenschaften
 - [Veritasium](https://www.youtube.com/@veritasium/videos)
+
+
 
 ## Motivation
 - [MateusZM](https://www.youtube.com/@TheMiro0r/videos)
 - [Motivation Madness](https://www.youtube.com/@MotivationMadness/videos)
 - [The Diary Of A CEO](https://www.youtube.com/@TheDiaryOfACEO/videos)
 
+
+
 ## Philosophie
-- Jordan Peterson
-- []()
-- []()
+- [Jordan Peterson](https://www.youtube.com/@JordanBPeterson/videos)
+
+
 
 ## Dashcams
 - [Fahrnünftig Eure Videos](https://www.youtube.com/@EureVideosFahrnuenftig/videos)
 - [Dashcam Drivers Germany](https://www.youtube.com/@DashcamDriversGermany/videos)
 - [RLP Dashcam](https://www.youtube.com/@rlp_dashcam/videos)
 - [Fahrrad Dashcam Deutschland](https://www.youtube.com/@FahrradDashcamDeutschland/videos)
-- []()
+- [Dashcam Heroes](https://www.youtube.com/@dashboardheroes/videos)
 - [Dashcam Deutschland](https://www.youtube.com/@DashcamDeutschland/videos)
+- [AVCH](https://www.youtube.com/@AVCH/videos)
+- [Dashcam Stories](https://www.youtube.com/@DashcamStories_mauzi/videos)
+
+
 
 ## Reactions
 - [Dash Reacts](https://www.youtube.com/@dash.reacts/videos)
@@ -151,26 +190,28 @@
 - [BunnymonTV](https://www.youtube.com/@Bunnymontv/videos)
 - [SniperWolf](https://www.youtube.com/@SSSniperWolf/videos)
 - [Spaz Boys Comedy](https://www.youtube.com/@SpazBoysComedy/videos)
-- []()
+- [PleaseGameEndUs - Valkyrae Reacts](https://www.youtube.com/@PleaseGameEndUs/videos)
+
+
 
 ## Psychologie
-- Jordan Peterson
+- [Jordan Peterson](https://www.youtube.com/@JordanBPeterson/videos)
 - [Theramintrees](https://www.youtube.com/@TheraminTrees/videos)
-- []()
+
+
 
 ## Geschichte
 - [CambrianChronicles](https://www.youtube.com/@CambrianChronicles/videos)
 - [Simple History](https://www.youtube.com/@Simplehistory/videos)
 - [Over Simplified](https://www.youtube.com/@OverSimplified/videos)
-- []()
-- []()
-- []()
+
+
 
 ## Stadtplanung
 - [Not Just Bikes](https://www.youtube.com/@NotJustBikes/videos)
 - [flurfdesign](https://www.youtube.com/@flurfdesign/videos)
 - [Adam Something](https://www.youtube.com/@AdamSomething/videos)
-- []()
+
 
 
 ## Musik
@@ -179,8 +220,10 @@
 - [Amelie Lens](https://www.youtube.com/@AmelieLens/videos)
 
 
+
 ## Podcasts
 - [The Diary Of A CEO](https://www.youtube.com/@TheDiaryOfACEO/videos)
+
 
 
 ## Sonstiges
