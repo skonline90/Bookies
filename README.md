@@ -12,6 +12,7 @@
 - [Rob Braxman Tech](https://www.youtube.com/@robbraxmantech/videos)
 - [Kappa Kaiju](https://www.youtube.com/@KappaKaijuOfficial/videos)
 - [Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi/videos)
+- [JomaTech](https://www.youtube.com/@JomaTech/videos)
 
 
 
@@ -150,7 +151,8 @@
 - [OE Fitness](https://www.youtube.com/@oefitness/videos)
 - [James Linkler Experience](https://www.youtube.com/@thejameslinkerexperience/videos)
 - [h3h3](https://www.youtube.com/@h3h3productions/videos)
-- [Over Simplified](https://www.youtube.com/@OverSimplified/videos)
+- [Over Simplified](https://www.youtube.com/@OverSimplified/videos)+
+- [JomaTech](https://www.youtube.com/@JomaTech/videos)
 
 
 
