@@ -30,6 +30,7 @@
 ## Wirtschaft
 - [Economics Explained](https://www.youtube.com/@EconomicsExplained/videos)
 - [In Hindsight](https://www.youtube.com/@HindsightYT/videos)
+- [Was kostet die Welt](https://www.youtube.com/@waskostetdiewelt)
 
 
 
@@ -69,6 +70,7 @@
 - [Kappa Kaiju](https://www.youtube.com/@KappaKaijuOfficial/videos)
 - [CoolHardLogic](https://www.youtube.com/@CoolHardLogic/videos)
 - [In Hindsight](https://www.youtube.com/@HindsightYT/videos)
+- [Was kostet die Welt](https://www.youtube.com/@waskostetdiewelt)
 
 
 
