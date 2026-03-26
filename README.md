@@ -240,4 +240,4 @@
 ------
 
 # Individuelle Videos
-- [Simon B. Støvring – Achieving Loose Coupling with Pure Dependency Injection | MOBILE WARSAW #100]([https://www.youtube.com/@AdamSomething/videos](https://www.youtube.com/watch?v=mNNHx7mMgVM))
+- [Simon B. Stovring – Achieving Loose Coupling with Pure Dependency Injection, MOBILE WARSAW #100](https://www.youtube.com/watch?v=mNNHx7mMgVM)
