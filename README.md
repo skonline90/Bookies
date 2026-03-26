@@ -261,3 +261,4 @@
 
 # Individuelle Videos
 - [Simon B. Stovring – Achieving Loose Coupling with Pure Dependency Injection, MOBILE WARSAW #100](https://www.youtube.com/watch?v=mNNHx7mMgVM)
+- [Gary Wilson Addiction](https://www.youtube.com/watch?v=ZLtSoWrEplM)
