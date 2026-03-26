@@ -127,6 +127,9 @@
 #### Diablo 2
 - [Zarfen The Loot Goblin](https://www.youtube.com/@zarfen/videos)
 - [Dbrunski](https://www.youtube.com/@Dbrunski125/videos)
+- [SleepyCat](https://www.youtube.com/@MisterSleepyCat/videos)
+- [Sir Fox Gaming](https://www.youtube.com/@sirfoxgaming/videos)
+- [Dai](https://www.youtube.com/@daiwales/videos)
 
 #### Dota
 - [Purge Dota](https://www.youtube.com/@PurgeGamers/videos)
