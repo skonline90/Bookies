@@ -132,6 +132,14 @@
 
 #### Warcraft 3
 - [JayborinoPlays](https://www.youtube.com/@JayborinoPlays/videos)
+- [Back2Warcraft](https://www.youtube.com/@Back2Warcraft/videos)
+- [Crota Gaming](https://www.youtube.com/@CrotaGaming/videos)
+
+#### Command and Conquer Generals
+- [cncHD](https://www.youtube.com/@cncHD12/videos)
+- [SketchTV](https://www.youtube.com/@SketchTVGaming/videos)
+- [Generals Gentlemen](https://www.youtube.com/@GeneralsGentlemen/videos)
+- [Dominator](https://www.youtube.com/@DoMiNaToR3/videos)
 
 #### Diablo 2
 - [Zarfen The Loot Goblin](https://www.youtube.com/@zarfen/videos)
