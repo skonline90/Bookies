@@ -1,3 +1,4 @@
+# Kanäle
 ## Bildung
 - [How To Network](https://www.youtube.com/@howtonetworkcom/videos)
 - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers/videos)
@@ -235,3 +236,8 @@
 - [Jörg Sprave - Slingshot Channel](https://www.youtube.com/@Slingshotchannel)
 - [Waking Up](https://www.youtube.com/@wakingup491/videos)
 - [Shawn Woods - Mousetraps](https://www.youtube.com/@ShawnWoods-Homestead/videos)
+
+------
+
+# Individuelle Videos
+- [Simon B. Støvring – Achieving Loose Coupling with Pure Dependency Injection | MOBILE WARSAW #100]([https://www.youtube.com/@AdamSomething/videos](https://www.youtube.com/watch?v=mNNHx7mMgVM))
