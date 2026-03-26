@@ -121,6 +121,15 @@
 - [Udwin](https://www.youtube.com/@Udwin/videos)
 - [Jefflenious Stronghold](https://www.youtube.com/@Jefflenious/videos)
 
+#### Speedrun
+- [Karl Jobst](https://www.youtube.com/@karljobst/videos)
+- [Games Done Quick](https://www.youtube.com/@gamesdonequick/videos)
+- [RPG Limit Break](https://www.youtube.com/@RPGLimitBreak/videos)
+- [Glitch Perfect - TheStrugglers](https://www.youtube.com/@glitchperfectDE/videos)
+- [Frogarchist](https://www.youtube.com/@frogarchist/videos)
+- [RocketbeansGaming - Speedrandale](https://www.youtube.com/@RocketBeansGaming/videos)
+- [ESA Speedrun](https://www.youtube.com/@ESAMarathon/videos)
+
 #### Warcraft 3
 - [JayborinoPlays](https://www.youtube.com/@JayborinoPlays/videos)
 
@@ -130,6 +139,7 @@
 - [SleepyCat](https://www.youtube.com/@MisterSleepyCat/videos)
 - [Sir Fox Gaming](https://www.youtube.com/@sirfoxgaming/videos)
 - [Dai](https://www.youtube.com/@daiwales/videos)
+- [Sweet Phil](https://www.youtube.com/@SweetPhil/videos)
 
 #### Dota
 - [Purge Dota](https://www.youtube.com/@PurgeGamers/videos)
@@ -237,7 +247,6 @@
 
 ## Sonstiges
 - [Jörg Sprave - Slingshot Channel](https://www.youtube.com/@Slingshotchannel)
-- [Waking Up](https://www.youtube.com/@wakingup491/videos)
 - [Shawn Woods - Mousetraps](https://www.youtube.com/@ShawnWoods-Homestead/videos)
 
 ------
