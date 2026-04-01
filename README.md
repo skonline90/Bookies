@@ -148,6 +148,7 @@
 - [Sir Fox Gaming](https://www.youtube.com/@sirfoxgaming/videos)
 - [Dai](https://www.youtube.com/@daiwales/videos)
 - [Sweet Phil](https://www.youtube.com/@SweetPhil/videos)
+- [Nuclear Rabbit](https://www.youtube.com/@thenuclearrabbit/videos)
 
 #### Dota
 - [Purge Dota](https://www.youtube.com/@PurgeGamers/videos)
