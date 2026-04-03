@@ -104,6 +104,10 @@
 
 
 ## Gaming
+#### Reviews
+- [Angry Video Game Nerd](https://www.youtube.com/@JamesNintendoNerd/videos)
+- [Maurice Weber](https://www.youtube.com/@maurice_weber/videos)
+
 #### Age of Empires 2
 - [Spirt Of The Law](https://www.youtube.com/@SpiritOfTheLaw/videos)
 - [NiliAoE2](https://www.youtube.com/@NiliAoE2/videos)
