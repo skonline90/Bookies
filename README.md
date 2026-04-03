@@ -182,6 +182,7 @@
 - [h3h3](https://www.youtube.com/@h3h3productions/videos)
 - [Over Simplified](https://www.youtube.com/@OverSimplified/videos)+
 - [JomaTech](https://www.youtube.com/@JomaTech/videos)
+- [Channel5 News](https://www.youtube.com/@Channel5YouTube/videos)
 
 
 
