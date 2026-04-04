@@ -14,6 +14,7 @@
 - [Kappa Kaiju](https://www.youtube.com/@KappaKaijuOfficial/videos)
 - [Christopher Okhravi](https://www.youtube.com/@ChristopherOkhravi/videos)
 - [JomaTech](https://www.youtube.com/@JomaTech/videos)
+- [NaomiBrockwellTV](https://www.youtube.com/@NaomiBrockwellTV/videos)
 
 
 
@@ -86,6 +87,7 @@
 - [Simon Miller](https://www.youtube.com/@SimonMillerYT/videos)
 - [ManFlowYoga](https://www.youtube.com/@ManFlowYoga/videos)
 - [Shredded Sports Science](https://www.youtube.com/@shreddedsportsscience/videos)
+- [Streetfight Compilations](https://rumble.com/c/StreetFightCompilations/videos?e9s=src_v1_cbl)
 
 
 
